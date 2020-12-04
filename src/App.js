@@ -63,6 +63,7 @@ function App() {
           <td>Kurukshetra University</td>
           <td>TIMT</td>
           <td>81.6%</td>
+		    
         </tr>
         <tr>
           <td>12th</td>
